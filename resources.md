@@ -4,29 +4,10 @@ permalink: /resources/index.html
 title: Resources
 ---
 
+### Lynda (For software learning)
+- [Lynda](https://www.lynda.com/)
+- [How to log in to Lynda with a Rutgers account](https://it.rutgers.edu/linkedin-learning/knowledgebase/logging-into-linkedin-learning/)
 
-
-### Programming (General)
-
-- [Mozilla Developer Network Web Docs](https://developer.mozilla.org/en-US/)
-- [Javascript.info](https://javascript.info/)
-- [Chrome DevTools](https://developer.chrome.com/devtools)
-- [Stack Overflow](http://stackoverflow.com/)
-
-
-### HTML and CSS
-
-- [Shay Howe ](https://learn.shayhowe.com/html-css/)
-- [Learn CSS Layout](http://learnlayout.com/)
-- [Flexbox in 5 Minutes](https://cvan.io/flexboxin5/)
-
-
-### Text Editors
-
-- [Sublime Text](https://www.sublimetext.com/)
-- [Atom.io](https://atom.io/)
-- [Brackets](http://brackets.io/)
-- [CodePen](http://codepen.io/)
 
 ### Typography
 
@@ -49,7 +30,6 @@ title: Resources
 
 - [Information is Beautiful](https://informationisbeautiful.net/)
 - [Hacker News](https://news.ycombinator.com/)
-- [Lynda](https://www.lynda.com/)
 - [Are.na](https://www.are.na/)
 - [Intern Magazine](https://intern-mag.com/)
 - [The Creative Independent](https://thecreativeindependent.com/)
@@ -67,3 +47,18 @@ title: Resources
 - [Sidebar daily design links](http://sidebar.io/)
 - [Copy Paste Character](http://www.copypastecharacter.com/)
 - [But Does it Float](http://butdoesitfloat.com/)
+
+### HTML and CSS
+
+- [Shay Howe ](https://learn.shayhowe.com/html-css/)
+- [Learn CSS Layout](http://learnlayout.com/)
+- [Flexbox in 5 Minutes](https://cvan.io/flexboxin5/)
+
+
+### Text Editors
+
+- [Sublime Text](https://www.sublimetext.com/)
+- [Atom.io](https://atom.io/)
+- [Brackets](http://brackets.io/)
+- [CodePen](http://codepen.io/)
+

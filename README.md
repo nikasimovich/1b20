@@ -1,4 +1,4 @@
-# Design 3A: Design for the Digital Realm
+# Design 1B: Form and Meaning
 
 ## Lectures
 

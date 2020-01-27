@@ -3,33 +3,28 @@ layout: page
 permalink: /syllabus/index.html
 ---
 
-# Design 3A, Section 1<br/> Design for the Digital Realm – Syllabus
+# Design 1B, Section 1<br/> Form and Meaning – Syllabus
 <br/>
 <p>
-Today interaction online focuses on information through living, social platforms. We will go beyond an average user’s perspective to critically examine the web through historical, political, and social lenses. This course encourages students to holistically approach to the web and its constituent code as a living kit of parts waiting to be harnessed in novel and innovative ways.
-As digital technology industries rapidly alter ways of doing and thinking, design can amplify, shift, comment on, and/or criticize these changes. The role of designers today is not only to style content but to shape it, extracting information from abstract datasets, writing scenarios, and creating systems, all with a critical eye. This course aims to train students to research, analyze, prototype, and develop design concepts for digital media for three distinct social and cultural contexts.
+  This class is an introduction to the visual communication design process. Class projects will involve work with both hand methods and digital technologies to develop original design solutions and integrate conceptual thinking with formal experimentation. Students explore problems dealing with visual metaphor, symbols, and the combination of type and image for making meaning.
 </p>
 
 ### Class Homepage
 
-3a.labud.nyc
+1b.labud.nyc
 
 ### Instructor
 
 Nika Fisher<br/>
 nf294@scarletmail.rutgers.edu
 
-### Other Sections
-
-- [Jacob Rivkin](http://design3a.jacobrivkin.com)
-- [Mindy Seu](http://fall2019-3a.designforthe.net/)
 
 ### Projects
 
 The semester will be divided into three 4–5 week long projects in order of shrinking scale. This will move from the size of a gallery to a browser and then to a mobile application or even the intangible or invisible. Throughout the course, the history of design will be revisited to see how client-driven design practices have partly evolved into research-driven authorship or entrepreneurial practices.
 
 
-1. Exhibition: The first project will be informed by avant-garde artists who made use of interaction design and its technologies online and in space. Theme: Artist as Visionary as Innovator as Architect as Seer
+1. Object STudy: The first project will be informed by avant-garde artists who made use of interaction design and its technologies online and in space. Theme: Artist as Visionary as Innovator as Architect as Seer
 2. Subcultural Publication: The second project will focus on alternative methods of publishing, concept development for subcultures, and history of publication before and after digital production and distribution.
 3. Social Web: The third project will analyze our existing social networks and reconsider the behaviors we would like to modify, enhance, or remove, especially in relation to smaller networks.
 

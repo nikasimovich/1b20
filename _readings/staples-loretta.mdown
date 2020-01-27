@@ -1,5 +1,0 @@
----
-title:            Typography & the Screen
-author:           Loretta Staples
-link:             /assets/readings/staples-typography.pdf
----

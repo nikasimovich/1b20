@@ -1,5 +1,0 @@
----
-title:            Research & Destroy
-author:           Daniel van der Velden
-link:             /assets/readings/van-der-Velden-research-and-destroy.pdf
----

@@ -10,10 +10,8 @@ permalink: /students/index.html
     {% if student.github_username %}
       {% assign github_username = student.github_username %}
     {% endif %}
-    <a href="{{ student.link }}">
       <div class="student">
-        <h2><a href="{{ student.website }}" class="blank-link" target="_blank">{{ student.first_name }} {{ student.last_name }}</a></h2>
+        <h2>{{ student.first_name }} {{ student.last_name }}</h2>
       </div>
-    </a>
   {% endfor %}
 </div>

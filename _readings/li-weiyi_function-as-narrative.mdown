@@ -1,5 +1,0 @@
----
-title:            Function as Narrative
-author:           Weiyi Li
-link:             /assets/readings/li-function-as-narrative.pdf
----

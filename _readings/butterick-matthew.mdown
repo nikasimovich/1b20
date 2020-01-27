@@ -1,5 +1,0 @@
----
-title:            Drowning the Crystal Goblet
-author:           Matthew Butterick
-link:             https://practicaltypography.com/drowning-the-crystal-goblet.html
----

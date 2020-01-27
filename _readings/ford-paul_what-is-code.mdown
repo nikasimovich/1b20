@@ -1,5 +1,0 @@
----
-title:            What is Code?
-author:           Paul Ford
-link:             https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
----

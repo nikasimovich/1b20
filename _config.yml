@@ -16,7 +16,7 @@
 title: Design 3A – Design for the Digital Realm
 email: nika@labud.nyc
 description: > # this means to ignore newlines until "baseurl:"
-  Design 3A at Rutgers University. Fall 2019.
+  Design 3A at Rutgers University. Spring 2020.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -30,9 +30,9 @@ exclude:
 navigation:
   - Agenda: /agenda
   - Projects: /projects
+  - Readings: /readings
   - Students: /students
   - Information: /info
-  - Syllabus: /syllabus
   - Resources: /resources
 
 # Custom collections
