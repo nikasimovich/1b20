@@ -2,13 +2,13 @@
 title:            Week 2
 start_date:       2020-01-26 00:00:00 -0500
 date_range:       02/03
-summary: Abridged design history (modernity), Denotation Vs. Conotation, Design as Art
+summary: Abridged Design History (Modernity), Denotation Vs. Connotation, Design as Art
 ---
 
 ### Monday, In Class
 
 - Review Design as Art and discuss Bruno Munari [reading](https://paper.dropbox.com/doc/1b-Reading-Discussion-Question-Week-1--AtIdLY39~jYpJ7DookpEa__AAQ-2HgnCUMljY7IYcVizsZT3)
-- [Week 2 – Ways of Communicating, object ](https://paper.dropbox.com/doc/Week-2-Ways-of-Communicating--AtmsCiQs4ncRjm~qsuwcrMW0AQ-jOaTiNMyvoizDMd8yhKAK)
+- [Week 2 – Ways of Communicating](https://paper.dropbox.com/doc/Week-2-Ways-of-Communicating--AtmsCiQs4ncRjm~qsuwcrMW0AQ-jOaTiNMyvoizDMd8yhKAK)
 
 
 ### Homework
