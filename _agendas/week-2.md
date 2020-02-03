@@ -15,5 +15,6 @@ summary: Abridged Design History (Modernity), Denotation Vs. Connotation, Design
 
 - Complete your Object Study prints and have them printed, trimmed and ready at the start of class
 - Read [Typophoto — Laszlo Maholy Nagy](https://ci.labud.nyc/assets/readings/moholy-nagy-laszlo-typophoto.pdf) and [In Defense of the Poor Image – Hito Steyerl](https://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image/) and write a discussion question/comment that compares the two, paste it [here](https://paper.dropbox.com/doc/Week-3-Discussion-Questions-and-Comments--Atk5XmV~hDU0Jo7HiUyuv8hgAQ-hBw8fOmMyCkoDJ7xywM1t)
-- Supplies: bring xacto blade and extra blades, self healing cutting board, clear glue stick or rubber cement, white paper (cardstock or heavier weight sheets), several sheets of black paper, ruler, scissors
+- Supplies –  bring xacto blade and extra blades, self healing cutting board, clear glue stick or rubber cement, white paper (cardstock or heavier weight sheets), several sheets of black paper, ruler, scissors
+
 ---
