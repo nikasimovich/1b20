@@ -14,7 +14,7 @@ Ongoing:
 Check agenda for instagram explorations
 
 Final print:
-2 prints (one denotative, one conotative), 5 × 7 inches each
+2 prints (one denotative, one connotative), 5 × 7 inches each
 
 
 ### Due Date
