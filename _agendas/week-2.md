@@ -2,7 +2,7 @@
 title:            Week 2
 start_date:       2020-01-26 00:00:00 -0500
 date_range:       02/03
-summary: Intros, Image descriptions, Raster Vs Vector
+summary: Abridged design history (modernity), Denotation Vs. Conotation, Design as Art
 ---
 
 ### Monday, In Class
