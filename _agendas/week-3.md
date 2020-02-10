@@ -22,5 +22,6 @@ summary: Object Study critique, Typophoto and "bad images," Composition, Gestalt
   3. Create a list of associations with the item. Brainstorm visual depictions of what you've described.
   3. Working at a 2:3 aspect ratio (2000 x 3000px) begin sketching five ideas for your poster. Do not start animating! Experiment with the form and think through the meanings and associations. Remember that design is frequently an addition or subtraction problem – if you&rsquo;re adding anything, make sure to have intentions behind it and consider how it communicate the overall form.
 - Read [Howardena Pindell: Negotiating Abstraction – Charles Gaines](https://pindell.mcachicago.org/essays/howardena-pindell-negotiating-abstraction/) and write a [discussion question/comment](https://paper.dropbox.com/doc/Week-4-Howardena-Pindell-Negotiating-ABSTRACTION--AuAPWNxmzpGUHWss4rgFa9JVAQ-9Sk9GiFJihL4gyifNMlU3)
+- Finish 2 gifs from the class activity (each gif should illustrate a different gestalt principle)
 
 ---
