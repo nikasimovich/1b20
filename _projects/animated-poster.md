@@ -9,7 +9,7 @@ index:            2
 Select a new object and consider how you can communicate a simple message based on any metaphorical or connotative meaning associated with it. Create an animated digital poster that communicates the idea.
 
 ### Specs
-Looping 5-10 second animated poster (1200 x 1200 or 1080 x 1920 px)
+Looping 5-10 second animated poster (2000 x 3000 px)
 
 ### Due Date
 02/24
