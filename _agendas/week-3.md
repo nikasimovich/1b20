@@ -20,6 +20,6 @@ summary: Object Study critique, Typophoto and "bad images," Composition, Gestalt
 - 1. Select a new object for the animated poster.
   2. Write a description describing the object in as clear and specific language as possible. Also describe why you selected it.
   3. Working at a 2:3 aspect ratio (2000 x 3000px) begin sketching ideas for your poster. Do not start animating! Aim for 10 different variations experimenting with the form. Remember that design is frequently an addition or subtraction problem – if you&rsquo;re adding anything, make sure to have intentions behind it and consider how it communicate the overall form.
-- Read [Howardena Pindell: Negotiating Abstraction – Charles Gaines](https://pindell.mcachicago.org/essays/howardena-pindell-negotiating-abstraction/) and [In Defense of the Poor Image – Hito Steyerl](https://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image/) and write a [discussion question/comment](https://paper.dropbox.com/doc/Week-4-Howardena-Pindell-Negotiating-ABSTRACTION--AuAPWNxmzpGUHWss4rgFa9JVAQ-9Sk9GiFJihL4gyifNMlU3)
+- Read [Howardena Pindell: Negotiating Abstraction – Charles Gaines](https://pindell.mcachicago.org/essays/howardena-pindell-negotiating-abstraction/) and write a [discussion question/comment](https://paper.dropbox.com/doc/Week-4-Howardena-Pindell-Negotiating-ABSTRACTION--AuAPWNxmzpGUHWss4rgFa9JVAQ-9Sk9GiFJihL4gyifNMlU3)
 
 ---
