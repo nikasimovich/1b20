@@ -12,4 +12,4 @@ Select a new object and consider how you can communicate a simple message based 
 Looping 5-10 second animated poster (2000 x 3000 px)
 
 ### Due Date
-02/24
+03/02
