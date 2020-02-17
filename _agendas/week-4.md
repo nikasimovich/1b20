@@ -9,7 +9,7 @@ summary:          Animation Intro
 
 - Review reading
 - Review Gestalt gifs
-- [Notes: Discuss motion design history, animation workshop, individual meetings on Animation Poster project](https://drive.google.com/open?id=13WI4NoFcF0zqe20sa1oGQf4hhUhFWLkn)
+- [Notes: Discuss motion design history, animation workshop, individual meetings on Animation Poster project](https://paper.dropbox.com/doc/Week-4-Intro-to-Motion--Aujdeub8cILHDjr0xGe7fWdlAQ-7TM5NRao14vkfPNSW8QSO)
 
 ### Homework
 
