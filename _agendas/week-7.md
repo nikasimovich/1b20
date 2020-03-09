@@ -16,5 +16,5 @@ summary:          Visual Collections, Designer Presentations
 ### Homework
 
 - Have a complete draft of all 25 images and bring it to class. We will work in class to start laying it out
-
+- Complete your designer presentation making sure to have reasons behind your presentation design as well as a final, take aways slide
 ---
