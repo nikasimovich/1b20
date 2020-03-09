@@ -6,6 +6,9 @@ index:            3
 ---
 
 ### Overview
+Anything that you have an accumulation of can be a collection. An archive is a collection of historical documents or records. Not all collections are archives, but many become relevant with time. For our next project you’re tasked with creating a collection of 25 items. Any time you see a multiplicity of an object, you begin to notice similarities and contexts in a new way. Seeing multiple of an object allows for this kind of in depth research that observing one object does not. The way the object is documented (consider the various image making techniques we’ve explored this semester) and organized helps direct the viewer on how the object is meant to be experienced.
+
+
 Create a visual archive of 25 items. The content of the archive is entirely up to you and should reflect one of your interests or ruminations. Consider different ways of documentation and think about how your visual approach informs your perspective on the collection. Mundane, everyday objects tend to be easier to work with than complicated or sentimental ones. If you’d like, you can focus on one aspect of your objects rather than documenting it in its entirety (for example, shoe imprints vs the entire shoe). Once you’ve created an archive, develop a name for your collection – this will be the name of your book. Design a cover that captures the spirit of the collection.
 
 ### Task
