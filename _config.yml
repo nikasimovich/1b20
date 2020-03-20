@@ -28,6 +28,7 @@ exclude:
 
 # Site nav
 navigation:
+  - COVID-19: /corona
   - Agenda: /agenda
   - Projects: /projects
   - Readings: /readings
