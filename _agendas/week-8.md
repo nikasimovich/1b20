@@ -10,7 +10,7 @@ summary:          Visual Collections Continue
 - [Today's Notes](https://paper.dropbox.com/doc/Week-8-First-Remote-Class--AwrYMNvvldVNeWoJRAqDYzoxAQ-FDn6ANmgPrrbYXzA8WANy)
 - Check in about coronavirus
 - Check in about presentation designers and tools
-- Review revised project description
+- Review revised [project description](../projects/visual-archive)
 - 1 on 1 check ins
 - Slack check in at end of class
 
