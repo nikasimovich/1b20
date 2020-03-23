@@ -7,6 +7,7 @@ summary:          Visual Collections Continue
 
 ### Monday, In Class
 
+- [Our virtual meeting room](https://meetingsamer3.webex.com/meet/nf294)
 - [Today's Notes](https://paper.dropbox.com/doc/Week-8-First-Remote-Class--AwrYMNvvldVNeWoJRAqDYzoxAQ-FDn6ANmgPrrbYXzA8WANy)
 - Check in about coronavirus
 - Check in about presentation designers and tools
