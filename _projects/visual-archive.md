@@ -19,11 +19,18 @@ Create a visual archive of 25 items. The content of the archive is entirely up t
 Examples: [Mary Ping Look Book](http://maryping.com/downloads/MARYPING_S_S_2015.pdf), [K-Hole Editions](http://khole.net/dl?v=4), [Urgency Reader – Queer Archive](https://www.dropbox.com/s/upt110q2fetc4zs/URGENCYREADER_lo.pdf?dl=0), [93.1 Jack FM Los Angeles, 2009 vol 1 – Guthrie Lonergan](http://www.theageofmammals.com/jackfm/jackfm_losangeles_2008.pdf)
 
 ### Option 2 – Instagram Story
-Use your class instagram account to create a story and save it as a highlight. Consider adding additional content using instagram's editing features (gifs, scribbles, text, tagging things). Consider how you can use a combination of media to tell a clear story and to add interest to your collection. Consider using a combination of photography, phone videos and graphic text to communicate the story.
-Examples: [Hassan Rahim Thumbs Up](https://www.instagram.com/hassanrahim/?hl=en), [Eva Stories (sensitive content)](https://www.instagram.com/eva.stories/), [Diet Prada](https://www.instagram.com/diet_prada/)
+- Use your class instagram account to create a story and save it as a highlight.
+- Consider adding additional content using instagram's editing features (gifs, scribbles, text, tagging things). Consider how you can use a combination of media to tell a clear story and to add interest to your collection.
+- Consider using a combination of photography, phone videos and graphic text to communicate the story.
+- If you&rsquo;d like to, you can also design parts of instagram story in photoshop/illustrator and upload them that way. If you choose to do this, design the asset at 1080 x 1920px.
+
+Examples: [Hassan Rahim Thumbs Up](https://www.instagram.com/hassanrahim/?hl=en), [Eva Stories (sensitive content)](https://www.instagram.com/eva.stories/), [Diet Prada](https://www.instagram.com/diet_prada/), [RoAndCo Highlights](https://www.instagram.com/roandcostudio/)
 
 ### Option 3 – Website Using Scoby and Are.na
-- Publish your collection using [Scoby](https://scoby.page/) and [Are.na](https://www.are.na/). Scoby is a page creator built on are.na by Elliott Cost. To use this, first create a public are.na channel that houses your entire collection as well as any other information (text, supporting assets). Once you have the collection, connect it to the [mother channel](https://www.are.na/elliott-cost/scoby). You&rsquo;ll then be able to see your collection [here](https://scoby.page/). Once you create it, use simple CSS to the collection channel and see it update on the website. Note: While this is a new skillset, it&rsquo;s in your reach to learn how to use basic CSS. I will help you with this if you choose to do it! Please let me know ASAP if you&rsquo;re doing this, I'll provide steps and resources.
+- Publish your collection using [Scoby](https://scoby.page/) and [Are.na](https://www.are.na/). Scoby is a page creator built on are.na by Elliott Cost.
+- To use this, first create a public are.na channel that houses your entire collection as well as any other information (text, supporting assets).
+- Once you have the collection, connect it to the [mother channel](https://www.are.na/elliott-cost/scoby). You&rsquo;ll then be able to see your collection [here](https://scoby.page/). Once you create it, use simple CSS to the collection channel and see it update on the website. Note: While this is a new skillset, it&rsquo;s in your reach to learn how to use basic CSS. I will help you with this if you choose to do it! Please let me know ASAP if you&rsquo;re doing this, I'll provide steps and resources.
+
 Examples: [Karen Rose Artwork on Scoby](https://scoby.page/karen-rose-artwork) and on [Are.na](https://www.are.na/nika-fisher/karen-rose-artwork), [Cubist Google Earth on Scoby](https://scoby.page/cubist-google-earth) and on [are.na](https://www.are.na/zach-rose/cubist-google-earth), [Red and Black on Scoby](https://scoby.page/red-n-black) and on [are.na](https://www.are.na/timur-fattahov/red-n-black)
 
 
