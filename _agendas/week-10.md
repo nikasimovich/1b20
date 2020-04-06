@@ -1,6 +1,6 @@
 ---
 title:            Week 10
-start_date:       2020-01-26 00:00:00 -0500
+start_date:       2020-04-05 00:00:00 -0500
 date_range:       04/06
 summary:          Visual Collections Critique
 ---
