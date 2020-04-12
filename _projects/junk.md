@@ -58,7 +58,7 @@ Mindy Seu created a similar project, you can see some of her student&rsquo;s exa
 Write a short response to the question, "What is bad design?" and reflect on the idea of control as it pertains to being a designer. You will turn this into part of your presentation.
 
 ### Presentation
-For the final critique, you&rsquo;ll present a designed collection of your junkmail. Start with describing the piece of junkmail and highlighting it visually, then create a system that highlights the work you created through these activities. Conclude with a visual set of slides that highlight your written analysis responses.
+For the final critique, you&rsquo;ll present a designed collection of your junkmail. Start with describing the piece of junkmail and highlighting it visually, then create a system that highlights the work you created through these activities. Conclude with a visual set of slides that highlight your written analysis responses and poses a few discussion questions about we assess quality to the class.
 
 Your presentation should be treated with as much care as your last booklet project with special attention to pacing, layout and typography. You can create either a PDF or a Google Slides. I would suggest google slide if you have animation.
 
