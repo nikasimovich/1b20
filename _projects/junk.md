@@ -27,7 +27,7 @@ Make notes on the hierarchy of the information (what is most important? why?)
 #### Desktop Screenshot (2)
 2. Using your desktop, assemble a composition that presents the spirit of your junkmail. Use all of the original content in both screenshots. In the first one, try to be as true to the original form as possible. In the second, feel free to edit/replace the assets and see how much of a divergent direction you can create while still housing the same information. Tools to consider: setting a desktop background, using application windows as part of the content (for example, a text edit document, or loading up parts of the photos in preview), using folders to create a collage.
 
-Mindy Seu created a similar project, you can see some of her student&rsquo;s examples at the bottom of this <a href="https://docs.google.com/document/d/188MEmnxq7FEot-oVlNaH_mew5ZUs9QTT3srUy2dQSXk/edit?usp=sharing">project page</a>.
+Mindy Seu and Jerome Harris created a similar project, you can see a few examples at the bottom of this <a href="https://docs.google.com/document/d/188MEmnxq7FEot-oVlNaH_mew5ZUs9QTT3srUy2dQSXk/edit?usp=sharing">project page</a>.
 
 #### Online Drawing Tool (2)
 3. Use [Sketch.io](https://sketch.io/sketchpad/), an online drawing tool to create two more versions of your poster. Use only the tools available and export it as both a PDF and JPG when you&rsquo;re finished.
