@@ -15,7 +15,7 @@ permalink: /syllabus/index.html
 
 ### Instructor
 
-Nika Fisher<br/>
+Nika Simovich Fisher<br/>
 nf294@scarletmail.rutgers.edu
 
 
